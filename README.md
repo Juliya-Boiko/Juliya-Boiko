@@ -7,9 +7,8 @@
 <p>
   🌱 GOIT student. Current course - Node.js
 </p>
-
 <p>
-  📫 Reach me: BoikoJuliya@gmail.com
+  📫 Reach me: BoikoJuliya2707@gmail.com
 </p>
           
 <p>
