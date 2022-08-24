@@ -1,12 +1,19 @@
 <h1 align="center">Hi there, i'm Juliya Boiko 👋</h1>
 <h3 align="center">beginner front-end developer </h3>
 
-📖 I am a beginner front-end developer looking for a trainee/junior level position. I have initial experience in own and group projects. I wish to continue to develop in this direction and become part of a good team (ready for possible relocation).
+<p>
+  📖 I am a beginner front-end developer looking for a trainee/junior level position. I have initial experience in own and group projects. I wish to continue to develop in this direction and become part of a good team (ready for possible relocation).
+</p>
+<p>
+  🌱 GOIT student. Current course - Node.js
+</p>
+<p>
+  📫 Reach me: BoikoJuliya@gmail.com
+</p>
+<p>
+  🌍 Current location: Batumi, Georgia 
+</p>
 
-🌱 GOIT student. Current course - Node.js
-📫 Reach me: BoikoJuliya@gmail.com
-🌍 Current location: Batumi, Georgia 
-⚡️ Fun fact: I enjoy fliying 
 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
