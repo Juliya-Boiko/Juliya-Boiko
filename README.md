@@ -1,16 +1,16 @@
 <h1 align="center">Hi there, i'm Juliya Boiko 👋</h1>
 <h3 align="center">beginner front-end developer </h3>
 
-<p>
+<p align="center>
   📖 I am a beginner front-end developer looking for a trainee/junior level position. I have initial experience in own and group projects. I wish to continue to develop in this direction and become part of a good team (ready for possible relocation).
 </p>
-<p>
+<p align="center>
   🌱 GOIT student. Current course - Node.js
 </p>
-<p>
+<p align="center>
   📫 Reach me: BoikoJuliya@gmail.com
 </p>
-<p>
+<p align="center>
   🌍 Current location: Batumi, Georgia 
 </p>
 
@@ -28,7 +28,3 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Juliya-Boiko)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juliya-Boiko&layout=compact)](https://github.com/Juliya-Boiko/github-readme-stats)
