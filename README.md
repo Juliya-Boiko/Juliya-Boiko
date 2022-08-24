@@ -18,3 +18,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Juliya-Boiko)](https://github.com/Juliya-Boiko/github-profile-trophy)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Juliya-Boiko)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juliya-Boiko&layout=compact)](https://github.com/Juliya-Boiko/github-readme-stats)
