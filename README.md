@@ -15,3 +15,5 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Juliya-Boiko)](https://github.com/Juliya-Boiko/github-profile-trophy)
