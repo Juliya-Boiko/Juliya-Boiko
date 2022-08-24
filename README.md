@@ -17,3 +17,4 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Juliya-Boiko)](https://github.com/Juliya-Boiko/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Juliya-Boiko)](https://git.io/streak-stats)
