@@ -1,3 +1,4 @@
+<img src="./banner.png" alt="banner"/>
 <h1 align="center">Hi there, i'm Juliya Boiko 👋</h1>
 <h3 align="center">beginner front-end developer </h3>
 
