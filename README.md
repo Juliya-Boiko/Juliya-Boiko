@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, i'm Juliya Boiko 👋</h1>
 <h3 align="center">beginner front-end developer </h3>
 
-<p align="center>
+<p>
   📖 I am a beginner front-end developer looking for a trainee/junior level position. I have initial experience in own and group projects. I wish to continue to develop in this direction and become part of a good team (ready for possible relocation).
 </p>
 
