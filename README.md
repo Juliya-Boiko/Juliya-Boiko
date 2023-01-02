@@ -12,7 +12,7 @@
 </p>
           
 <p>
-  🌍 Current location: Batumi, Georgia 
+  🌍 Current location: Nesebr, Bulgaria 
 </p>
 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
