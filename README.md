@@ -1,4 +1,4 @@
-<img src="./light.png" alt="banner"/>
+<img src="./bgi.png" alt="banner"/>
 
 <p>
   📖 I am a beginner fullstack developer looking for a trainee/junior level position. I have initial experience in own and group projects. I wish to continue to develop in this direction and become part of a good team (ready for possible relocation).
@@ -11,7 +11,6 @@
 <p>
   🌍 Current location: Nesebr, Bulgaria 
 </p>
-
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
