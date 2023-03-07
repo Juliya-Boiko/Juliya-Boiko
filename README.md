@@ -1,4 +1,4 @@
-<img src="./bgi.png" alt="banner"/>
+<img src="./full-stack-developer-flat-illustration-suitable-web-banners-infographics-book-social-media-other-graphic-assets_210682-78.avif" alt="banner"/>
 
 <p>
   📖 I am a beginner fullstack developer looking for a trainee/junior level position. I have initial experience in own and group projects. I wish to continue to develop in this direction and become part of a good team (ready for possible relocation).
