@@ -1,8 +1,8 @@
-<img src="./banner.png" alt="banner"/>
+<img src="./9215092.jpg" width="400" align="right" alt="banner"/>
 
 # Hi, I'm Juliya! 👋
 
-👩‍💻 Full-stack developer
+👩‍💻 Full-stack developer from Ukraine
 
 🧠 Like challenging goals and constant personal growth
 
