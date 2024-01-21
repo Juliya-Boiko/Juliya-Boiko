@@ -1,4 +1,4 @@
-<img src="./9215092.jpg" width="400" align="right" alt="banner"/>
+<img src="./bg-banner.png" alt="banner"/>
 
 # Hi, I'm Juliya! 👋
 
