@@ -1,4 +1,4 @@
-<img src="./banner.png" align="right" height="250" width="400" alt="GIF" alt="banner"/>
+<img src="./banner.png" alt="banner"/>
 
 # Hi, I'm Juliya! 👋
 
