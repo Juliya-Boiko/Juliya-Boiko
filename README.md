@@ -1,5 +1,3 @@
-<img src="./bg-banner.png" alt="banner"/>
-
 # Hi, I'm Juliya! 👋
 
 👩‍💻 Full-stack developer from Ukraine
@@ -11,6 +9,8 @@
 ⚡️ Fun fact: Coding is my warmup. Debugging is my cardio
 
 📫 Reach me: boikojuliya2707@gmail.com
+
+<img src="./bg-banner.png" alt="banner"/>
 
 ## Links
 
