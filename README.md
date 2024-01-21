@@ -1,8 +1,11 @@
-<img src="./banner.png" alt="banner"/>
+<h1 align="center">FULL STACK DEVELOPER</h1>
 
-<p>FULL STACK DEVELOPER</p>
+<p align="center">📫 Reach me: BoikoJuliya2707@gmail.com</p>
 
-<p>📫 Reach me: BoikoJuliya2707@gmail.com</p>
+<br/>
+<br/>
+
+<img src="./9085640.jpg" align="right" height="250" width="400" alt="GIF" alt="banner"/>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
